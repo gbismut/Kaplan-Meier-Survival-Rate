@@ -99,7 +99,7 @@ KM <- function(trydf) {
   return(list(rresdf, rres1df, gradmedian, sizeN))
 }
 
-# All PhD Students
+# All Students
 trydf = df
 
 outcomes = KM(trydf)
